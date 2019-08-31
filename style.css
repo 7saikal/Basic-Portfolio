@@ -1,0 +1,52 @@
+*{
+    background: #777;
+    text-align: center;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18pt;
+
+}
+.container{
+    width: 960px;
+    color:rgb(43, 41, 41);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:0.5cm;
+}
+.header{
+    background: #eee;
+    padding: 15px;
+    margin: 15px;
+}
+.nav{
+    background: #eee;
+    padding: 15px;
+    margin: 15px;
+}
+.section{
+    background: #eee;
+    width: 495px;
+    height: 300px;
+    padding: 15px;
+    margin: 15px;
+    float: left;
+
+}
+.aside{
+    background: #eee;
+    width: 280px;
+    height: 300px;
+    padding: 15px;
+    margin: 15px;
+    float: right;
+    float:top right;
+}
+.footer{
+    background: #eee;
+    padding: 15px;
+    margin: 15px;
+    
+}
+.wrap{
+    margin: 0 auto;
+    width: 900px;
