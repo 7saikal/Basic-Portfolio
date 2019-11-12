@@ -1,4 +1,4 @@
 # Basic-Portfolio
-![GitHub Logo](/assets/images/sa.png)
-![GitHub Logo](/assets/images/pf.png)
-![GitHub Logo](/assets/images/contact.png)
+![GitHub Logo](./assets/Images/sa.png)
+![GitHub Logo](./assets/Images/pf.png)
+![GitHub Logo](./assets/Images/contact.png)
